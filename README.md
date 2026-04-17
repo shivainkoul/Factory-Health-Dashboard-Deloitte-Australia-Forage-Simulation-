@@ -83,6 +83,6 @@ Manufacturing organizations often struggle to monitor machine health and ensure 
 
 The Dashboard look like this:
 
-<br><img width="603" height="338" alt="Factory Dashboard 1" src="YOUR_IMAGE_LINK_1" />
+<br><img width="603" height="338" alt="Factory Dashboard 1" src="https://github.com/shivainkoul/Factory-Health-Dashboard-Deloitte-Australia-Forage-Simulation-/blob/main/Snapshot%201%20of%20the%20dashboard.png" />
 
 <br><img width="603" height="338" alt="Factory Dashboard 2" src="YOUR_IMAGE_LINK_2" />
